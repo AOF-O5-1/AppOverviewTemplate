@@ -57,7 +57,7 @@ const prompts = [
     },
 ];
 
-// Custom prompt module
+// Custom prompt module (.prompt is not recognized)
 const customPrompt = inquirer.createPromptModule();
 
 // License function with badge and notice
