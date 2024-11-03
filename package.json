@@ -1,0 +1,14 @@
+{
+  "name": "appoverviewtemplate",
+  "version": "1.0.0",
+  "description": "This application takes away the need to type up a README.md from scratch for each new project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^12.0.1"
+  }
+}
