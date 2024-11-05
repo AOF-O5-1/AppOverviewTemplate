@@ -8,7 +8,7 @@ This project is a Node.js application that generates a customizable `README.md` 
 
 - Prompts the user for project details such as title, description, installation steps, usage instructions, credits, contributing guidelines, tests, and more.
 - Provides a selection of open-source licenses, with badges and license notices included.
-- Generates a README file (`AppOverview.md`) with a clear structure and Table of Contents.
+- Generates a README file (`FileName.md`) with a clear structure and Table of Contents.
 
 ## Installation
 
@@ -40,3 +40,6 @@ If you have any questions, please reach out:
 
 - GitHub: [AOF-O5-1](https://github.com/AOF-O5-1)
 - Email: [marcusfajemisin@gmail.com](mailto:your-marcusfajemisin@gmail.com)
+
+## Tutorial Video
+(https://drive.google.com/file/d/1utT6QbcuBW0WQhpzJM4N6AcVFn8xhxWh/view)
